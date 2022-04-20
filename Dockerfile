@@ -1,5 +1,7 @@
 FROM node:lts-alpine
 
+RUN npm install yarn
+
 WORKDIR /app
 
 COPY package*.json ./
