@@ -35,7 +35,7 @@ export default {
   },
 
   computed: {
-    vId: {
+    voterid: {
       get() {
         return this.$store.state.voterdata.voterid;
       },
@@ -85,7 +85,7 @@ export default {
   
       await this.$axios.post("http://localhost:8083/voter/", voter);
 
-      await this.restForm({ vId: "", name: "" ,address: "",email: ""});
+      await this.restForm({ voterid: "", name: "" ,address: "",email: ""});
 
       this.$store.commit(
         "users/storeData",

@@ -64,7 +64,8 @@ export default {
          (await this.$axios.get("http://localhost:8083/election/")).data
 
      );
-  
+             this.$router.push("/candidate");
+
     },
     restForm(user){
         this.$store.commit("user/storeElection_Name",user.Election_Name);

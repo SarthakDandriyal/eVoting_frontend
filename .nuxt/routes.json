@@ -2,43 +2,50 @@
   {
     "name": "Blockerpage",
     "path": "/Blockerpage",
-    "component": "/Users/sarthakdandriyal/Downloads/Election_system_frontend_with_timer-master/pages/Blockerpage.vue",
-    "chunkName": "pages/Blockerpage"
+    "component": "/Users/sarthakdandriyal/Desktop/eVoting_frontend/pages/Blockerpage.vue",
+    "chunkName": "pages/Blockerpage",
+    "_name": "_52c073d4"
   },
   {
     "name": "candidate",
     "path": "/candidate",
-    "component": "/Users/sarthakdandriyal/Downloads/Election_system_frontend_with_timer-master/pages/candidate.vue",
-    "chunkName": "pages/candidate"
+    "component": "/Users/sarthakdandriyal/Desktop/eVoting_frontend/pages/candidate.vue",
+    "chunkName": "pages/candidate",
+    "_name": "_48f88070"
   },
   {
     "name": "Notified",
     "path": "/Notified",
-    "component": "/Users/sarthakdandriyal/Downloads/Election_system_frontend_with_timer-master/pages/Notified.vue",
-    "chunkName": "pages/Notified"
+    "component": "/Users/sarthakdandriyal/Desktop/eVoting_frontend/pages/Notified.vue",
+    "chunkName": "pages/Notified",
+    "_name": "_d015184a"
   },
   {
     "name": "start_election",
     "path": "/start_election",
-    "component": "/Users/sarthakdandriyal/Downloads/Election_system_frontend_with_timer-master/pages/start_election.vue",
-    "chunkName": "pages/start_election"
+    "component": "/Users/sarthakdandriyal/Desktop/eVoting_frontend/pages/start_election.vue",
+    "chunkName": "pages/start_election",
+    "_name": "_7b341239"
   },
   {
     "name": "VoteDone",
     "path": "/VoteDone",
-    "component": "/Users/sarthakdandriyal/Downloads/Election_system_frontend_with_timer-master/pages/VoteDone.vue",
-    "chunkName": "pages/VoteDone"
+    "component": "/Users/sarthakdandriyal/Desktop/eVoting_frontend/pages/VoteDone.vue",
+    "chunkName": "pages/VoteDone",
+    "_name": "_055805cf"
   },
   {
     "name": "voters",
     "path": "/voters",
-    "component": "/Users/sarthakdandriyal/Downloads/Election_system_frontend_with_timer-master/pages/voters.vue",
-    "chunkName": "pages/voters"
+    "component": "/Users/sarthakdandriyal/Desktop/eVoting_frontend/pages/voters.vue",
+    "chunkName": "pages/voters",
+    "_name": "_8e394be4"
   },
   {
     "name": "index",
     "path": "/",
-    "component": "/Users/sarthakdandriyal/Downloads/Election_system_frontend_with_timer-master/pages/index.vue",
-    "chunkName": "pages/index"
+    "component": "/Users/sarthakdandriyal/Desktop/eVoting_frontend/pages/index.vue",
+    "chunkName": "pages/index",
+    "_name": "_f343f282"
   }
 ]
